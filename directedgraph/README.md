@@ -1,6 +1,6 @@
 # directedgraph
 
-Go implementation of DirectedGraph type.
+Golang implementation of DirectedGraph type.
 
     host$ export GOPATH=~/workspace
     host$ mkdir -p $GOPATH
@@ -30,4 +30,4 @@ Go implementation of DirectedGraph type.
     === RUN   Test_ShouldDetectCyclesFromWithinTheVertexChain
     --- PASS: Test_ShouldDetectCyclesFromWithinTheVertexChain (0.00s)
     PASS
-    ok  	_/home/chris/workspace/src/directedgraph	0.002s
+    ok  	github.com/chrisshiels/golang/directedgraph	0.002s
