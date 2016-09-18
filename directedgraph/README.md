@@ -5,9 +5,7 @@ Golang implementation of DirectedGraph type.
     host$ export GOPATH=~/workspace
     host$ mkdir -p $GOPATH
     host$ cd $GOPATH
-
-    host$ go get github.com/chrisshiels/golang/directedgraph/...
-
+    host$ go get -v github.com/chrisshiels/golang/directedgraph/...
     host$ go test -v github.com/chrisshiels/golang/directedgraph/...
     === RUN   Test_ShouldInstantiate
     --- PASS: Test_ShouldInstantiate (0.00s)
